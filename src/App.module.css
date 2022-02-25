@@ -1,0 +1,13 @@
+.container{
+  margin: 10px 10px 10px 10px;
+}
+
+.incDec{
+  margin: 10px;
+  background-color: #ccc;
+  cursor: pointer;
+}
+.incDec span{
+  width: 50px;
+  height: 50px;  
+}
